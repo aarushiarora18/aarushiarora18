@@ -1,6 +1,6 @@
-# Hi, I’m Aarushi Arora
+# Hi, I’m Aarushi Arora 👾
 
-### AI Engineer • ML Research Enthusiast 🌙⚡
+### AI Engineer • ML Research Enthusiast 👾
 
 I’m a Computer Science Engineering student specializing in AI at Bennett University with a focus on building practical machine learning systems that go beyond notebook experiments.
 My interests orbit around **Deep Learning, NLP, RAG pipelines, Explainable AI, Time Series Forecasting, and AI Ethics**.
