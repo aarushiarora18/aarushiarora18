@@ -108,25 +108,6 @@ Content-based recommendation engine using Spotify API audio features.
 * Interactive Streamlit interface
 * Audio-feature similarity matching
 
----
-
-# 💼 Experience
-
-## Business Analytics Intern @ Tata Power Delhi Distribution Limited
-
-**June 2025 – July 2025**
-
-* Worked on analytics workflows using industry energy consumption datasets
-* Supported AI forecasting experimentation
-* Collaborated on production-style ML development practices
-
----
-
-# 📜 Certifications
-
-* Introduction to Artificial Intelligence (IBM)
-* Neural Networks and Deep Learning (DeepLearning.AI)
-* Supervised Machine Learning: Regression (IBM)
 
 ---
 
