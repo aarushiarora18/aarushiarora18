@@ -33,7 +33,7 @@ Interested in **AI/ML, NLP, LLMs, and data-driven systems.**
 # Connect With Me
 
 * 👾 LinkedIn: linkedin.com/in/aarushiarora
-* 👾 GitHub: github.com/aarushiarora
+* 👾 GitHub: github.com/aarushiarora18
 * 👾 Email: [aarushiarora340@gmail.com](mailto:aarushiarora340@gmail.com)
 
 
